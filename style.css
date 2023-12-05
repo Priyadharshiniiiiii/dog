@@ -1,0 +1,14 @@
+/*  */
+h1{
+    color:blue
+}
+div{
+    border: 1px solid black;
+    width: 700px;
+    position: relative;
+    background-color:red
+}
+img{
+    border: 1px dotted red ;
+    border-radius: 100%;
+}
